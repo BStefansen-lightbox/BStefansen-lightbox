@@ -36,7 +36,7 @@ I'm a technology professional with experience in GIS and geospatial data. I enjo
 <!-- Tensorflow -->
 <!-- <img src="https://img.shields.io/badge/-Tensorflow-f5790a?style=flat-square&logo=tensorflow&logoColor=white"> -->
 
-## How to reach me 📫 
+## How To Reach Me 📫 
 <p><a href="https://github.com/bstefansen" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> </a> <a href="https://www.linkedin.com/in/blake-stefansen/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
