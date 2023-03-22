@@ -7,51 +7,6 @@ As an AWS certified technology professional with extensive experience in DevOps 
 
 
 
-<!-- <img src="https://img.shields.io/badge/-Java-0497fb?style=flat-square&logo=java&logoColor=white"> -->
-
-
-
-<!-- Things to Learn -->
-<!-- Apache spark, docker, pandas, numpy,  postgis, apache airflow, tensorflow, GDAL/OGR -->
-
-
-
-<!-- QGIS -->
-<!--<img src="https://img.shields.io/badge/-QGIS-ffffff?style=flat-square&logo=qgis&logoColor=green">-->
-
-<!-- Docker -->
-<!--<img src="https://img.shields.io/badge/-Docker-0066ff?style=flat-square&logo=docker&logoColor=white">
-
-<!-- Leaflet, mapbox -->
-<!--<img src="https://img.shields.io/badge/-Leaflet-39c66e?style=flat-square&logo=leaflet&logoColor=white"><img src="https://img.shields.io/badge/-Mapbox-0074ff?style=flat-square&logo=mapbox&logoColor=white">-->
-
-<!-- Apache Spark -->
-<!--<img src="https://img.shields.io/badge/-Apache%20Spark-ffffff?style=flat-square&logo=apachespark&logoColor=orange">-->
-
-<!-- AWS Redshift -->
-
-<!-- D3.js -->
-
-<!-- Tensorflow -->
-<!-- <img src="https://img.shields.io/badge/-Tensorflow-f5790a?style=flat-square&logo=tensorflow&logoColor=white"> -->
-
 ## How To Reach Me 📫 
 <p><a href="https://github.com/bstefansen" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> </a> <a href="https://www.linkedin.com/in/blake-stefansen/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-
-<!-- - 📧  bstefansen11@gmail.com -->
-
-<!--
-**bstefansen/bstefansen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
